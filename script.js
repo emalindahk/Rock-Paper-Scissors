@@ -1,6 +1,6 @@
 const game = () => {
   let pScore = 0;
-  let cpuScore = 0:
+  let cpuScore = 0;
   
    
 
